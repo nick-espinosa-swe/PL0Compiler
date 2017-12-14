@@ -1,0 +1,9 @@
+/* This should work with just your parser hw */
+const m = 7, n = 85;
+var x, y;
+begin
+    y :=3;
+    write y;
+    x := y + 56;
+    write x;
+end.
